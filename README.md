@@ -38,9 +38,10 @@ Data needed to start running the individual notebooks is the zipped .csv files c
 
 ## NOTEBOOKS FORMAT
 
-# Final_optimization.ipynb Notebook
-# EDA.ipynb Notebook
-# MDA_models_notebook.ipynb
+### Final_optimization.ipynb Notebook
+
+### EDA.ipynb Notebook
+### MDA_models_notebook.ipynb
 
 
 
