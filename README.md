@@ -34,7 +34,13 @@ To ensure the reproducibility of our code, we have encapsulated our entire data 
 
 
 ## INPUT FILES
+Data needed to start running the individual notebooks is the zipped .csv files containing the noise data and weather data dowloaded from https://rdr.kuleuven.be/dataset.xhtml?persistentId=doi:10.48804/SSRN3F . Weather data files used in the project are following: LC_2022Q1.csv, LC_2022Q2.csv,LC_2022Q3.csv and LC_2022Q4.csv. 
+
 ## NOTEBOOKS FORMAT
+
+# Final_optimization.ipynb Notebook
+# EDA.ipynb Notebook
+# MDA_models_notebook.ipynb
 
 
 
