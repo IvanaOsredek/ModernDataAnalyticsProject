@@ -32,6 +32,7 @@ To ensure the reproducibility of our code, we have encapsulated our entire data 
 
 ##  RUNNING DOCKER CONTAINER
 
+To optimize the runtime, we have shared intermediate files from the entire pipeline for your convenience. You can access these files by downloading them from https://drive.google.com/drive/folders/1ujkE1BN7HhospF830oSXqnLcnlWRoSJs?usp=drive_link. In your code, you can read these files at the specified points, allowing you to bypass computationally intensive steps. To utilize the files, you should download them and mount the directory when initializing your container.
 
 ## INPUT FILES
 Data needed to start running the individual notebooks is the zipped .csv files containing the noise data and weather data dowloaded from https://rdr.kuleuven.be/dataset.xhtml?persistentId=doi:10.48804/SSRN3F . Weather data files used in the project are following: LC_2022Q1.csv, LC_2022Q2.csv,LC_2022Q3.csv and LC_2022Q4.csv. 
